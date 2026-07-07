@@ -323,3 +323,14 @@ This project can be further improved in several ways:
 - Visualize customer insights using interactive dashboards.
 - Implement model monitoring and automatic retraining for production environments.
 - Build a REST API using FastAPI or Flask for integration with other applications.
+## Application Preview
+
+### Home Page
+
+![Home](screenshots/home.png)
+
+---
+
+### Prediction
+
+![Prediction](screenshots/prediction.png)
