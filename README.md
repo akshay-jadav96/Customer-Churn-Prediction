@@ -331,6 +331,10 @@ This project can be further improved in several ways:
 
 ---
 
-### Prediction
+## Stay Prediction
 
-![Prediction](screenshots/prediction.png)
+![Stay](screenshots/stay_prediction.png)
+
+## Churn Prediction
+
+![Churn](screenshots/churn_prediction.png)
